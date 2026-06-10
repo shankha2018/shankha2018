@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Shankhadeep Giri 👋
 
-<!--
-**shankha2018/shankha2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | AI-Powered Quality Engineering Enthusiast
 
-Here are some ideas to get you started:
+🚀 QA Automation Engineer with 4+ years of experience in designing, developing, and maintaining scalable test automation solutions for Web, API, and Performance Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- Selenium WebDriver
+- WebdriverIO
+- Playwright
+- Java
+- JavaScript
+- API Testing (Postman, REST Assured)
+- Performance Testing (JMeter)
+- Jenkins
+- Git & GitHub
+- SQL
+
+### 🌱 Currently Exploring
+
+- AI-Powered Testing
+- Agentic AI
+- Model Context Protocol (MCP)
+- LLM Integration in Test Automation
+- Intelligent Test Generation & Analysis
+
+### 📌 Featured Projects
+
+- WebdriverIO Automation Framework
+- Selenium Java Automation Framework
+- API Automation Framework
+- Performance Testing Framework using JMeter
+- AI Test Case Generator using Claude API
+- Log Analyzer using Claude API
+- AI-Powered GitHub Commit Analyzer with Automated Regression Test Suggestions
+
+### 🎯 Areas of Interest
+
+- Test Automation Architecture
+- Quality Engineering
+- AI-Augmented Testing
+- CI/CD Integration
+- Shift-Left Testing
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/shankhadeep-giri-056780170
